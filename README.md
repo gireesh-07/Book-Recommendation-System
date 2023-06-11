@@ -31,7 +31,7 @@ We have three dataset:
 ## **Approaches Used**
 1. **Popularity Based recommendation system**:  <br>
 Used the Weighted average rating approach to get the top books.
-2. **Collaborative Filitering Based recommendation system**: <br>
+2. **Collaborative Filtering Based recommendation system**: <br>
 Used the Memory Based approach - KNN and Cosine Similarity
 ## **Conclusion**
 - Harlequin is the top most publisher that has published most number of books, followed by Silhouette. We can observe Harlequin publisher's marking better performance than any other publishers
